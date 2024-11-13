@@ -13,7 +13,23 @@ import net.minecraft.util.Identifier;
 //w tym miejscu tutaj się robi register itemów
 public class ModItems {
     public  static final Item STEELIUM_INGOT = registerItem("steelium_ingot", new Item(new FabricItemSettings()));
-    public  static final Item RAW_STEELIUM = registerItem("raw_steelium", new Item(new FabricItemSettings())); //jak chcesz dodać nowy item po prostu skopiuj linijke i zmień nazwy... Potem musisz skopiować plik .json z nazwą danego itemu np: steelium_ingot.json kopiujesz to i zmieniasz nazwe np na " raw_steelium jason" i w tym jsonie w folderze models->item piszesz jaką ścieżke ma obrać program żeby dobrać odpowiednie textury
+    public  static final Item RAW_STEELIUM = registerItem("raw_steelium", new Item(new FabricItemSettings()));     //jak chcesz dodać nowy item po prostu skopiuj linijke i zmień nazwy... Potem musisz skopiować plik .json z nazwą danego itemu np: steelium_ingot.json kopiujesz to i zmieniasz nazwe np na " raw_steelium jason" i w tym jsonie w folderze models->item piszesz jaką ścieżke ma obrać program żeby dobrać odpowiednie textury
+    public  static final Item CRYSTALIUM_SHARD = registerItem("crystalium_shard", new Item(new FabricItemSettings()));
+    public  static final Item CRYSTALIUM_INGOT = registerItem("crystalium_ingot", new Item(new FabricItemSettings()));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

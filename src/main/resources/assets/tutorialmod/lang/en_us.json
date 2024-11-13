@@ -1,6 +1,13 @@
 {
-  "item.tutorialmod.steelium_ingot ": "Steelium Ingot",
-  "item.tutorialmod.raw_steelium ": "Raw Steelium",
+  "item.tutorialmod.steelium_ingot": "Steelium Ingot",
+  "item.tutorialmod.raw_steelium": "Raw Steelium",
+  "item.tutorialmod.crystalium_shard": "Crystalium Shard",
+  "item.tutorialmod.crystalium_ingot": "Crystalium Ingot",
 
-  "itemgroup.steelium_ingot": "Steelium Ingot Tutorial Group"
+  "block.tutorialmod.steelium_block": "Block of Steelium",
+  "block.tutorialmod.raw_steelium_block": "Block of Raw Steelium",
+  "block.tutorialmod.crystalium_block": "Crystalium Block",
+  "block.tutorialmod.crystalium_cluster": "Crystalium Cluster",
+
+  "itemgroup.steelium_ingot": "Woken Tides Forge Materials"
 }

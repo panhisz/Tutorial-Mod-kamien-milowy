@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "steelium_ingot",
+  "ingredient": {
+    "item": "tutorialmod:raw_steelium"
+  },
+  "result": "tutorialmod:steelium_ingot"
+}

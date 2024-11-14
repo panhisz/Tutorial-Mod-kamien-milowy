@@ -8,10 +8,10 @@
   ],
   "key": {
     "#": {
-      "item": "tutorialmod:steelium_ingot"
+      "item": "tutorialmod:raw_steelium"
     }
   },
   "result": {
-    "item": "tutorialmod:steelium_block"
+    "item": "tutorialmod:raw_steelium_block"
   }
 }

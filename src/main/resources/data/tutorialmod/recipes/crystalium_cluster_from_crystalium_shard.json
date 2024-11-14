@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:crystalium_shard"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:crystalium_cluster"
+  }
+}

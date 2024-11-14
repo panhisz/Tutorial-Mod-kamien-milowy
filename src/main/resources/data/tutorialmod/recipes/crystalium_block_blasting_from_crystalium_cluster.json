@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 350,
+  "experience": 13.0,
+  "group": "crystalium",
+  "ingredient": {
+    "item": "tutorialmod:crystalium_cluster"
+  },
+  "result": "tutorialmod:crystalium_block"
+}

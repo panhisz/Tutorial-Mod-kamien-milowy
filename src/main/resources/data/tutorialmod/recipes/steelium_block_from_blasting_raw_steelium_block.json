@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 450,
+  "experience": 9.0,
+  "group": "steelium_ingot",
+  "ingredient": {
+    "item": "tutorialmod:raw_steelium_block"
+  },
+  "result": "tutorialmod:steelium_block"
+}

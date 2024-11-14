@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:crystalium_ingot"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:crystalium_block"
+  }
+}

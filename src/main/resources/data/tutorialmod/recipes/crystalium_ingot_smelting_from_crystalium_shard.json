@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 250,
+  "experience": 1.1,
+  "group": "crystalium",
+  "ingredient": {
+    "item": "tutorialmod:crystalium_shard"
+  },
+  "result": "tutorialmod:crystalium_ingot"
+}

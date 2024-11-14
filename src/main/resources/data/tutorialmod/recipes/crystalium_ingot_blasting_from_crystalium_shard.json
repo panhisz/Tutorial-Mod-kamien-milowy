@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 1.4,
+  "group": "crystalium",
+  "ingredient": {
+    "item": "tutorialmod:crystalium_shard"
+  },
+  "result": "tutorialmod:crystalium_ingot"
+}

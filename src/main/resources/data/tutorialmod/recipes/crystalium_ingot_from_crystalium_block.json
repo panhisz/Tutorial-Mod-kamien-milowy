@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:crystalium_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:crystalium_ingot",
+    "count": 9
+  }
+}

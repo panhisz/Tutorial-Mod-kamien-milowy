@@ -42,6 +42,21 @@ public class ModItemGroups {
 
                         //ore
                         entries.add((ModBlocks.STEELIUM_ORE));
+                        entries.add((ModBlocks.CRYSTALIUM_ORE));
+
+                        //deepslate
+                        entries.add((ModBlocks.DEEPSLATE_CRYSTALIUM_ORE));
+                        entries.add((ModBlocks.DEEPSLATE_STEELIUM_ORE));
+
+
+                        //nether
+                        entries.add((ModBlocks.NETHER_CRYSTALIUM_ORE));
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 450,
+  "experience": 9.0,
+  "group": "crystalium",
+  "ingredient": {
+    "item": "tutorialmod:crystalium_cluster"
+  },
+  "result": "tutorialmod:crystalium_block"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:steelium_ingot"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:steelium_block"
+  }
+}

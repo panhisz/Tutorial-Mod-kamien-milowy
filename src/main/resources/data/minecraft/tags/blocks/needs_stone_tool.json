@@ -5,7 +5,10 @@
     "tutorialmod:steelium_block",
     "tutorialmod:raw_steelium_block",
     "tutorialmod:crystalium_cluster",
-    "tutorialmod:crystalium_block"
-    
+    "tutorialmod:crystalium_block",
+    "tutorialmod:crystalium_ore",
+    "tutorialmod:deepslate_crystalium_ore",
+    "tutorialmod:deepslate_steelium_ore"
+
   ]
 }

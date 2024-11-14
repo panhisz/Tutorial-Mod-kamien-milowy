@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
 
-
-    
+    "tutorialmod:nether_crystalium_block",
+    "tutorialmod:nether_crystalium_cluster"
   ]
 }

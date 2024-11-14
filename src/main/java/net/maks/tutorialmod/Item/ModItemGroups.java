@@ -27,6 +27,8 @@ public class ModItemGroups {
                         entries.add(ModItems.RAW_STEELIUM);
                         entries.add(ModItems.CRYSTALIUM_SHARD);
                         entries.add(ModItems.CRYSTALIUM_INGOT);
+                        entries.add(ModItems.NETHER_CRYSTALIUM_INGOT);
+                        entries.add(ModItems.NETHER_CRYSTALIUM_SHARD);
 
                         //block
                         entries.add(ModBlocks.STEELIUM_BLOCK);
@@ -44,6 +46,7 @@ public class ModItemGroups {
                         entries.add((ModBlocks.STEELIUM_ORE));
                         entries.add((ModBlocks.CRYSTALIUM_ORE));
 
+
                         //deepslate
                         entries.add((ModBlocks.DEEPSLATE_CRYSTALIUM_ORE));
                         entries.add((ModBlocks.DEEPSLATE_STEELIUM_ORE));
@@ -51,6 +54,11 @@ public class ModItemGroups {
 
                         //nether
                         entries.add((ModBlocks.NETHER_CRYSTALIUM_ORE));
+                        entries.add((ModBlocks.NETHER_CRYSTALIUM_BLOCK));
+                        entries.add((ModBlocks.NETHER_CRYSTALIUM_CLUSTER));
+
+                        //end dimension
+                        entries.add((ModBlocks.END_CRYSTALIUM_ORE));
 
 
 

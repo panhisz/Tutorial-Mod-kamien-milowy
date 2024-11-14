@@ -44,7 +44,26 @@ public class ModBlocks {
 
     //nether things
     public  static final Block NETHER_CRYSTALIUM_ORE =  registerBlock("nether_crystalium_ore",
-            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.NETHERRACK).strength(5f), UniformIntProvider.create(1,16)));
+            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.NETHERRACK).strength(5f), UniformIntProvider.create(5,36)));
+    public  static final Block NETHER_CRYSTALIUM_CLUSTER =  registerBlock("nether_crystalium_cluster",
+            new Block(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK).strength(2.2f).sounds(BlockSoundGroup.AMETHYST_CLUSTER)));
+    public  static final Block NETHER_CRYSTALIUM_BLOCK =  registerBlock("nether_crystalium_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK).strength(2.2f).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+
+
+
+    //end dimension
+    public  static final Block END_CRYSTALIUM_ORE =  registerBlock("end_crystalium_ore",
+            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.END_STONE).strength(3f), UniformIntProvider.create(5,7)));
+
+
+
+
+
+
+
+
+
 
 
 

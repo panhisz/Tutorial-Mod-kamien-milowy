@@ -40,7 +40,6 @@ public class ModItemGroups {
 
 
 
-
                         //ore
                         entries.add((ModBlocks.STEELIUM_ORE));
 

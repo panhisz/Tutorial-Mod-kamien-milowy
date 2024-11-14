@@ -24,6 +24,14 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
     public  static final Block CRYSTALIUM_CLUSTER =  registerBlock("crystalium_cluster",
             new Block(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK)));
+    //ore
+    public  static final Block STEELIUM_ORE =  registerBlock("steelium_ore",
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_ORE)));
+
+
+
+
+
 
 
     private  static Block registerBlock(String name, Block block){

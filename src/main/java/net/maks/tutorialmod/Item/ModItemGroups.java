@@ -27,15 +27,25 @@ public class ModItemGroups {
                         entries.add(ModItems.RAW_STEELIUM);
                         entries.add(ModItems.CRYSTALIUM_SHARD);
                         entries.add(ModItems.CRYSTALIUM_INGOT);
+
                         //block
-
-
                         entries.add(ModBlocks.STEELIUM_BLOCK);
                         entries.add(ModBlocks.CRYSTALIUM_BLOCK);
+
+
 
                         //raw
                         entries.add((ModBlocks.RAW_STEELIUM_BLOCK));
                         entries.add((ModBlocks.CRYSTALIUM_CLUSTER));
+
+
+
+
+                        //ore
+                        entries.add((ModBlocks.STEELIUM_ORE));
+
+
+
 
 
 

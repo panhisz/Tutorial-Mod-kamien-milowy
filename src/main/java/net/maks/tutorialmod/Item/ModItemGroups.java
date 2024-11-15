@@ -33,6 +33,7 @@ public class ModItemGroups {
                         //block
                         entries.add(ModBlocks.STEELIUM_BLOCK);
                         entries.add(ModBlocks.CRYSTALIUM_BLOCK);
+                        entries.add(ModBlocks.CRYSTALIUM_BUDDING);
 
 
 

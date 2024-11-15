@@ -23,6 +23,11 @@ public class ModBlocks {
     public  static final Block CRYSTALIUM_BLOCK =  registerBlock("crystalium_block",
             new Block(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK).strength(4.0f)));
 
+
+    //Block
+    public  static final Block CRYSTALIUM_BUDDING =  registerBlock("crystalium_budding",
+            new Block(FabricBlockSettings.copyOf(Blocks.BUDDING_AMETHYST).strength(1.5f)));
+
     //raw blocks
     public  static final Block RAW_STEELIUM_BLOCK =  registerBlock("raw_steelium_block",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
@@ -38,8 +43,9 @@ public class ModBlocks {
     public  static final Block DEEPSLATE_STEELIUM_ORE =  registerBlock("deepstale_steelium_ore",
             new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(4f), UniformIntProvider.create(2,5)));
 
-    public  static final Block DEEPSLATE_CRYSTALIUM_ORE =  registerBlock("deepstale_crystalium_ore",
+    public  static final Block DEEPSLATE_CRYSTALIUM_ORE =  registerBlock("deepslate_crystalium_ore",
             new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(2.5f).sounds(BlockSoundGroup.AMETHYST_BLOCK), UniformIntProvider.create(1,12)));
+
 
 
     //nether things

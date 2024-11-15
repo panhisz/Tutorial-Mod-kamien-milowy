@@ -37,14 +37,18 @@ public class ModItems {
 
 
 
+
     private  static void addItemsToIngredientItemGroup(FabricItemGroupEntries entires) {
         entires.add(STEELIUM_INGOT);
         entires.add(RAW_STEELIUM);
         entires.add(CRYSTALIUM_INGOT);
         entires.add(NETHER_CRYSTALIUM_INGOT);
         entires.add(NETHER_CRYSTALIUM_SHARD);
+
        // entires.add(END_CRYSTALIUS_SHARD);
         //entires.add(END_CRYSTALIUS_INGOT); //wrazie gdy będzie mi sie chciało robić end bloki
+
+
 
 
     }

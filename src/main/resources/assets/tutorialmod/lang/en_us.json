@@ -2,7 +2,6 @@
   "item.tutorialmod.steelium_ingot": "Steelium Ingot",
   "item.tutorialmod.raw_steelium": "Raw Steelium",
   "item.tutorialmod.crystalium_shard": "Crystalium Shard",
-
   "item.tutorialmod.crystalium_ingot": "Crystalium Ingot",
 
 
@@ -15,13 +14,15 @@
 
 
   "block.tutorialmod.crystalium_cluster": "Crystalium Cluster",
+  "block.tutorialmod.crystalium_budding": "Crystalium Budding",
 
   "block.tutorialmod.steelium_ore": "Steelium Ore",
   "block.tutorialmod.crystalium_ore": "Crystalium Ore",
 
 
   "block.tutorialmod.deepslate_crystalium_ore": "Deepslate Crystalium Ore",
-  "block.tutorialmod.deepslate_steelium_ore": "Deepslate Steelium Ore",
+  "block.tutorialmod.deepstale_steelium_ore": "Deepslate Steelium Ore",
+
 
 
 
@@ -29,6 +30,8 @@
   "block.tutorialmod.steelium_block": "Block of Steelium",
   "block.tutorialmod.raw_steelium_block": "Block of Raw Steelium",
   "block.tutorialmod.crystalium_block": "Crystalium Block",
+
+
 
 
 

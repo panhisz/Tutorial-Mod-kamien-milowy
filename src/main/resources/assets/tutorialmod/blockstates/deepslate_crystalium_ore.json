@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "tutorialmod:block/nether_crystalium_shard"
+      "model": "tutorialmod:block/deepslate_crystalium_ore"
     }
   }
 }
